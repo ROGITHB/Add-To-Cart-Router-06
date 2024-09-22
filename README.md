@@ -76,7 +76,7 @@ This is a simple e-commerce project built using React. It utilizes the Fake Stor
       
     - **README.md**
   
-    - **index.html**
+    - **Index.html**
 ## Demo :https://addtocartrouterrogithb06.netlify.app
  
 
