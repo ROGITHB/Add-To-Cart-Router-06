@@ -3,8 +3,6 @@
 ## Project Overview
 This is a simple e-commerce project built using React. It utilizes the Fake Store API to fetch product data and implements a shopping cart functionality. Users can view products, add them to a cart, adjust quantities, and proceed to checkout with a dynamic total price calculation.
 
-## Demo : 
-
 ## Features
 - **Product Listing:** Displays a list of products fetched from the Fake Store API.
   
@@ -71,13 +69,15 @@ This is a simple e-commerce project built using React. It utilizes the Fake Stor
     - **services**
       - ApiService.jsx
         
-    - **App.js**
+    - **App.jsx**
       
     - **index.css**
+    - **Main.jsx**
       
     - **README.md**
   
     - **main.jsx**
+## Demo :https://addtocartrouterrogithb06.netlify.app
  
 
 
